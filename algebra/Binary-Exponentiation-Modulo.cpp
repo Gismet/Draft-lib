@@ -5,6 +5,7 @@
  * Source: https://cp-algorithms.com/algebra/binary-exp.html
  * Time: O(logn)
  * Space: O(1)
+ * Note: Possible to speed up for large b >> m
  */
 
 const int MOD = 1e9 + 7;
